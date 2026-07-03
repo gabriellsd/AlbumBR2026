@@ -1,0 +1,22 @@
+{
+  "name": "album-br2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Álbum virtual Brasileirão Série A 2026",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "start": "npm run dev",
+    "build": "node scripts/build.mjs",
+    "build:capa": "node scripts/gerar-capa-album.mjs",
+    "build:catalogo": "node scripts/build-catalogo.mjs",
+    "build:paginas": "node scripts/build-paginas.mjs",
+    "build:assets": "node scripts/gerar-assets.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}

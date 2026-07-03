@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Mirassol
+Sigla: MIR | Técnico: Rafael Guanaes | Estádio: Campos Maia
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 22  Walter                         BRA      38   1,88  D   Goleiro          Titular
+  —  Mycael                         —         —      —  —   Goleiro          Reserva
+  3  Willian Machado                BRA      29   1,86  E   Lat. direito     Titular
+  6  Reinaldo                       BRA      36   1,78  E   Lat. direito     Reserva
+ 32  Igor Formiga                   BRA      27   1,77  D   Lat. esquerdo    Titular
+ 20  Daniel Borges                  BRA      33   1,74  D   Lat. esquerdo    Rotação
+ 34  João Victor                    BRA      28   1,88  D   Zagueiro         Titular
+  2  Lucas Oliveira                 BRA      30   1,87  D   Zagueiro         Titular
+  —  Wallace Pires                  —         —      —  —   Zagueiro         Reserva
+  8  Denilson                       BRA      25   1,80  D   Volante          Titular
+  —  Aldo Filho                     —         —      —  —   Volante          Titular
+  7  Shaylon                        BRA      29   1,78  E   Meia             Reserva
+ 33  Eduardo                        BRA      36   1,84  D   Meia             Titular
+ 77  Alesson                        BRA      27   1,67  D   Atacante         Titular
+ 96  Carlos Eduardo                 BRA      29   1,73  D   Atacante         Titular
+ 99  André Luís                     BRA      32   1,84  D   Atacante         Titular
+ 11  Negueba                        BRA      26   1,73  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Rafael Guanaes
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Mirassol
+Sigla: MIR
+Temporada: 2026 | Técnico: Rafael Guanaes
+
+MIR1  Escudo                             | Escudo
+MIR2  Rafael Guanaes                     | Técnico
+MIR3  Walter                             | Goleiro
+MIR4  Mycael                             | Goleiro
+MIR5  Alesson                            | Atacante
+MIR6  Carlos Eduardo                     | Atacante
+MIR7  André Luís                         | Atacante
+MIR8  Negueba                            | Atacante
+MIR9  Willian Machado                    | Lateral
+MIR10 Reinaldo                           | Lateral
+MIR11 Igor Formiga                       | Lateral
+MIR12 Daniel Borges                      | Lateral
+MIR13 Campos Maia                        | Estádio
+MIR14 Denilson                           | Meio-Campo
+MIR15 Aldo Filho                         | Meio-Campo
+MIR16 Shaylon                            | Meio-Campo
+MIR17 Eduardo                            | Meio-Campo
+MIR18 João Victor                        | Zagueiro
+MIR19 Lucas Oliveira                     | Zagueiro
+MIR20 Wallace Pires                      | Zagueiro
+

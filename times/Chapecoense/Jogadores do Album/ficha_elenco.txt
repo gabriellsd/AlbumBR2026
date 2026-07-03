@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Chapecoense
+Sigla: CHA | Técnico: Rafael Lacerda | Estádio: Arena Condá
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 98  Anderson                       BRA      28   1,90  E   Goleiro          Titular
+  8  Robert                         BRA      22   1,80  E   Goleiro          Reserva
+ 91  Bruno Pacheco                  BRA      34   1,75  E   Lat. direito     Titular
+  4  João Paulo                     BRA      28   1,87  E   Lat. direito     Reserva
+  6  Mancha Vinícius                BRA      25   1,80  E   Lat. esquerdo    Titular
+  —  William Clar                   —         —      —  —   Lat. esquerdo    Rotação
+  3  Eduardo Doma                   BRA      27   1,87  D   Zagueiro         Titular
+ 33  Bruno Leonardo                 BRA      30   1,87  D   Zagueiro         Titular
+ 15  Rafael Thyere                  BRA      33   1,90  D   Zagueiro         Reserva
+ 27  Camilo                         BRA      27   1,76  D   Volante          Titular
+ 22  Higor Meritão                  BRA      32   1,86  E   Volante          Titular
+  —  Gabriel Augusto                —         —      —  —   Meia             Reserva
+  5  João Vitor                     BRA      28   1,78  D   Meia             Titular
+ 11  Bolasie                        DR       37   1,85  D   Atacante         Titular
+  7  Marcinho                       BRA      31   1,76  D   Atacante         Titular
+ 97  Ênio                           BRA      25   1,68  D   Atacante         Titular
+ 77  Ítalo                          BRA      23   1,80  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Rafael Lacerda
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Chapecoense
+Sigla: CHA
+Temporada: 2026 | Técnico: Rafael Lacerda
+
+CHA1  Escudo                             | Escudo
+CHA2  Rafael Lacerda                     | Técnico
+CHA3  Anderson                           | Goleiro
+CHA4  Robert                             | Goleiro
+CHA5  Bolasie                            | Atacante
+CHA6  Marcinho                           | Atacante
+CHA7  Ênio                               | Atacante
+CHA8  Ítalo                              | Atacante
+CHA9  Bruno Pacheco                      | Lateral
+CHA10 João Paulo                         | Lateral
+CHA11 Mancha Vinícius                    | Lateral
+CHA12 William Clar                       | Lateral
+CHA13 Arena Condá                        | Estádio
+CHA14 Camilo                             | Meio-Campo
+CHA15 Higor Meritão                      | Meio-Campo
+CHA16 Gabriel Augusto                    | Meio-Campo
+CHA17 João Vitor                         | Meio-Campo
+CHA18 Eduardo Doma                       | Zagueiro
+CHA19 Bruno Leonardo                     | Zagueiro
+CHA20 Rafael Thyere                      | Zagueiro
+

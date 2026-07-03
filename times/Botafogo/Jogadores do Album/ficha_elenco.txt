@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Botafogo
+Sigla: BOT | Técnico: Franclim Carvalho | Estádio: Nilton Santos
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 22  Neto                           BRA      36   1,90  D   Goleiro          Titular
+ 24  Léo Linck                      BRA      25   1,94  D   Goleiro          Reserva
+  2  Vitinho                        BRA      26   1,74  D   Lat. direito     Titular
+ 13  Alex Telles                    BRA      33   1,81  E   Lat. direito     Reserva
+ 21  Marçal                         BRA      37   1,78  E   Lat. esquerdo    Titular
+  4  Mateo Ponte                    URU      23   1,83  D   Lat. esquerdo    Rotação
+  5  Ferraresi                      VEN      27   1,90  D   Zagueiro         Titular
+ 20  Alexander Barboza              ARG      31   1,93  E   Zagueiro         Titular
+ 15  Bastos                         ANG      35   1,84  D   Zagueiro         Reserva
+  6  Cristian Medina                ARG      24   1,78  D   Volante          Titular
+ 88  Edenilson                      BRA      36   1,75  D   Volante          Titular
+  8  Danilo                         BRA      25   1,77  E   Meia             Reserva
+ 25  Allan                          BRA      35   1,75  D   Meia             Titular
+ 19  Arthur Cabral                  BRA      28   1,86  D   Atacante         Titular
+ 11  Matheus Martins                BRA      22   1,83  D   Atacante         Titular
+ 17  Júnior Santos                  BRA      31   1,88  D   Atacante         Titular
+ 30  Joaquín Correa                 ARG      31   1,88  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Franclim Carvalho
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Botafogo
+Sigla: BOT
+Temporada: 2026 | Técnico: Franclim Carvalho
+
+BOT1  Escudo                             | Escudo
+BOT2  Franclim Carvalho                  | Técnico
+BOT3  Neto                               | Goleiro
+BOT4  Léo Linck                          | Goleiro
+BOT5  Arthur Cabral                      | Atacante
+BOT6  Matheus Martins                    | Atacante
+BOT7  Júnior Santos                      | Atacante
+BOT8  Joaquín Correa                     | Atacante
+BOT9  Vitinho                            | Lateral
+BOT10 Alex Telles                        | Lateral
+BOT11 Marçal                             | Lateral
+BOT12 Mateo Ponte                        | Lateral
+BOT13 Nilton Santos                      | Estádio
+BOT14 Cristian Medina                    | Meio-Campo
+BOT15 Edenilson                          | Meio-Campo
+BOT16 Danilo                             | Meio-Campo
+BOT17 Allan                              | Meio-Campo
+BOT18 Ferraresi                          | Zagueiro
+BOT19 Alexander Barboza                  | Zagueiro
+BOT20 Bastos                             | Zagueiro
+

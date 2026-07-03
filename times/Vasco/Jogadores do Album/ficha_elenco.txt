@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Vasco
+Sigla: VAS | Técnico: Renato Gaúcho | Estádio: São Januário
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  1  Léo Jardim                     BRA      31   1,88  D   Goleiro          Titular
+  —  Alexander Moraes               —         —      —  —   Goleiro          Reserva
+  6  Lucas Piton                    ITA      25   1,75  E   Lat. direito     Titular
+  —  Puma Rodríguez                 —         —      —  —   Lat. direito     Reserva
+ 66  Cuiabano                       BRA      23   1,79  E   Lat. esquerdo    Titular
+ 98  JP Gomes                       BRA      21   1,82  A   Lat. esquerdo    Rotação
+ 30  Robert Renan                   BRA      22   1,86  E   Zagueiro         Titular
+ 46  Carlos Cuesta                  COL      27   1,79  D   Zagueiro         Titular
+  —  Jávine Saldivia                —         —      —  —   Zagueiro         Reserva
+ 23  Thiago Mendes                  BRA      34   1,77  D   Volante          Titular
+ 25  Hugo Moura                     BRA      28   1,77  D   Volante          Titular
+ 88  Cauan Barros                   BRA      22   1,83  D   Meia             Reserva
+  3  Tchê Tchê                      BRA      33   1,75  A   Meia             Titular
+ 11  Andrés Gómez                   COL      23   1,70  D   Atacante         Titular
+ 20  Brenner                        BRA      26   1,75  D   Atacante         Titular
+  7  David                          BRA      30   1,79  D   Atacante         Titular
+ 17  Nuno Moreira                   POR      27   1,75  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Renato Gaúcho
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Vasco
+Sigla: VAS
+Temporada: 2026 | Técnico: Renato Gaúcho
+
+VAS1  Escudo                             | Escudo
+VAS2  Renato Gaúcho                      | Técnico
+VAS3  Léo Jardim                         | Goleiro
+VAS4  Alexander Moraes                   | Goleiro
+VAS5  Andrés Gómez                       | Atacante
+VAS6  Brenner                            | Atacante
+VAS7  David                              | Atacante
+VAS8  Nuno Moreira                       | Atacante
+VAS9  Lucas Piton                        | Lateral
+VAS10 Puma Rodríguez                     | Lateral
+VAS11 Cuiabano                           | Lateral
+VAS12 JP Gomes                           | Lateral
+VAS13 São Januário                       | Estádio
+VAS14 Thiago Mendes                      | Meio-Campo
+VAS15 Hugo Moura                         | Meio-Campo
+VAS16 Cauan Barros                       | Meio-Campo
+VAS17 Tchê Tchê                          | Meio-Campo
+VAS18 Robert Renan                       | Zagueiro
+VAS19 Carlos Cuesta                      | Zagueiro
+VAS20 Jávine Saldivia                    | Zagueiro
+

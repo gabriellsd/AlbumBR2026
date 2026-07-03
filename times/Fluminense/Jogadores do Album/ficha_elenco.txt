@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Fluminense
+Sigla: FLU | Técnico: Luis Zubeldía | Estádio: Maracanã
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  1  Fábio                          BRA      45   1,88  D   Goleiro          Titular
+  1  Fábio Brenner                  BRA      45   1,88  D   Goleiro          Reserva
+  2  Samuel Xavier                  BRA      36   1,66  D   Lat. direito     Titular
+  6  Renê                           BRA      33   1,74  E   Lat. direito     Reserva
+ 23  Guga                           BRA      27   1,73  D   Lat. esquerdo    Titular
+  —  Marlon                         —         —      —  —   Lat. esquerdo    Rotação
+  3  Jemmes                         BRA      26   1,87  D   Zagueiro         Titular
+  4  Ignácio Freytes                BRA      29   1,90  D   Zagueiro         Titular
+  —  Thiago Silva                   —         —      —  —   Zagueiro         Reserva
+  8  Martinelli                     BRA      24   1,76  D   Volante          Titular
+  —  Lucho Acosta                   —         —      —  —   Volante          Titular
+ 35  Hércules                       BRA      25   1,78  D   Meia             Reserva
+  5  Facundo Bernal                 URU      22   1,87  D   Meia             Titular
+  9  John Kennedy                   BRA      24   1,73  D   Atacante         Titular
+ 90  Kevin Serna                    COL      28   1,82  D   Atacante         Titular
+ 14  German Canobbio                ARG      38   1,76  D   Atacante         Titular
+  —  Hulk                           —         —      —  —   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Luis Zubeldía
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Fluminense
+Sigla: FLU
+Temporada: 2026 | Técnico: Luis Zubeldía
+
+FLU1  Escudo                             | Escudo
+FLU2  Luis Zubeldía                      | Técnico
+FLU3  Fábio                              | Goleiro
+FLU4  Fábio Brenner                      | Goleiro
+FLU5  John Kennedy                       | Atacante
+FLU6  Kevin Serna                        | Atacante
+FLU7  German Canobbio                    | Atacante
+FLU8  Hulk                               | Atacante
+FLU9  Samuel Xavier                      | Lateral
+FLU10 Renê                               | Lateral
+FLU11 Guga                               | Lateral
+FLU12 Marlon                             | Lateral
+FLU13 Maracanã                           | Estádio
+FLU14 Martinelli                         | Meio-Campo
+FLU15 Lucho Acosta                       | Meio-Campo
+FLU16 Hércules                           | Meio-Campo
+FLU17 Facundo Bernal                     | Meio-Campo
+FLU18 Jemmes                             | Zagueiro
+FLU19 Ignácio Freytes                    | Zagueiro
+FLU20 Thiago Silva                       | Zagueiro
+

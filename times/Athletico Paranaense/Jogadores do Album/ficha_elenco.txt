@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Athletico Paranaense
+Sigla: CAP | Técnico: Odair Hellmann | Estádio: Arena da Baixada (Ligga Arena)
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 23  Santos                         BRA      36   1,88  —   Goleiro          Titular
+  1  Mycael                         BRA      22   1,91  —   Goleiro          Reserva
+ 29  Gastón Benavídez               ARG      30   1,75  D   Lat. direito     Titular
+ 37  Lucas Esquivel                 ARG      24   1,83  E   Lat. esquerdo    Titular
+  2  Gilberto                       BRA      33      —  —   Lat. direito     Reserva
+ 26  Claudinho                      BRA      20      —  —   Lat. esquerdo    Rotação
+ 22  Carlos Terán                   COL      25   1,88  D   Zagueiro         Titular
+  4  Arthur Dias                    BRA      19   1,88  —   Zagueiro         Titular
+ 33  Juan Felipe Aguirre            COL      29   1,86  —   Zagueiro         Reserva
+ 14  Luiz Gustavo                   BRA      38   1,87  D   Volante          Titular
+ 16  Jadson                         BRA      32   1,71  —   Volante          Titular
+ 27  Juan Portilla                  COL      27   1,83  —   Volante          Reserva
+ 10  Bruno Zapelli                  ARG      24   1,81  —   Meia             Titular
+  9  Kevin Viveros                  COL      26   1,80  —   Atacante         Titular
+ 20  Julimar                        BRA      25   1,88  —   Atacante         Titular
+  7  Steven Mendoza                 COL      33   1,71  —   Atacante         Titular
+ 70  Renan Peixoto                  BRA      26   1,85  —   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Odair Hellmann
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Athletico Paranaense
+Sigla: CAP
+Temporada: 2026 | Técnico: Odair Hellmann
+
+CAP1  Escudo                             | Escudo
+CAP2  Odair Hellmann                     | Técnico
+CAP3  Santos                             | Goleiro
+CAP4  Mycael                             | Goleiro
+CAP5  Kevin Viveros                      | Atacante
+CAP6  Julimar                            | Atacante
+CAP7  Steven Mendoza                     | Atacante
+CAP8  Renan Peixoto                      | Atacante
+CAP9  Gastón Benavídez                   | Lateral
+CAP10 Lucas Esquivel                     | Lateral
+CAP11 Gilberto                           | Lateral
+CAP12 Claudinho                          | Lateral
+CAP13 Arena da Baixada (Ligga Arena)     | Estádio
+CAP14 Luiz Gustavo                       | Meio-Campo
+CAP15 Jadson                             | Meio-Campo
+CAP16 Juan Portilla                      | Meio-Campo
+CAP17 Bruno Zapelli                      | Meio-Campo
+CAP18 Carlos Terán                       | Zagueiro
+CAP19 Arthur Dias                        | Zagueiro
+CAP20 Juan Felipe Aguirre                | Zagueiro
+

@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Flamengo
+Sigla: FLA | Técnico: Leonardo Jardim | Estádio: Maracanã
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  1  Agustín Rossi                  ARG      30   1,93  D   Goleiro          Titular
+ 42  Andrew                         BRA      24   1,89  D   Goleiro          Reserva
+ 22  Emerson Royal                  BRA      27   1,83  D   Lat. direito     Titular
+  6  Ayrton Lucas                   BRA      29   1,80  E   Lat. direito     Reserva
+ 26  Alex Sandro                    BRA      35   1,80  E   Lat. esquerdo    Titular
+  2  Guillermo Varela               URU      33   1,74  D   Lat. esquerdo    Rotação
+  3  Léo Ortiz                      BRA      30   1,85  D   Zagueiro         Titular
+  4  Léo Pereira                    BRA      30   1,89  E   Zagueiro         Titular
+ 44  Vitão                          BRA      26   1,85  D   Zagueiro         Reserva
+ 20  Lucas Paquetá                  BRA      28   1,83  E   Volante          Titular
+ 21  Jorginho                       ITA      34   1,80  D   Volante          Titular
+ 18  Nicolás de la Cruz             URU      29   1,67  D   Meia             Reserva
+ 10  Giorgian Arrascaeta            URU      32   1,77  D   Meia             Titular
+  9  Pedro                          BRA      29   1,85  D   Atacante         Titular
+ 27  Bruno Henrique                 BRA      35   1,84  D   Atacante         Titular
+ 16  Samuel Lino                    BRA      26   1,77  D   Atacante         Titular
+ 19  Gonzalo Plata                  ECU      25   1,78  E   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Leonardo Jardim
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Flamengo
+Sigla: FLA
+Temporada: 2026 | Técnico: Leonardo Jardim
+
+FLA1  Escudo                             | Escudo
+FLA2  Leonardo Jardim                    | Técnico
+FLA3  Agustín Rossi                      | Goleiro
+FLA4  Andrew                             | Goleiro
+FLA5  Pedro                              | Atacante
+FLA6  Bruno Henrique                     | Atacante
+FLA7  Samuel Lino                        | Atacante
+FLA8  Gonzalo Plata                      | Atacante
+FLA9  Emerson Royal                      | Lateral
+FLA10 Ayrton Lucas                       | Lateral
+FLA11 Alex Sandro                        | Lateral
+FLA12 Guillermo Varela                   | Lateral
+FLA13 Maracanã                           | Estádio
+FLA14 Lucas Paquetá                      | Meio-Campo
+FLA15 Jorginho                           | Meio-Campo
+FLA16 Nicolás de la Cruz                 | Meio-Campo
+FLA17 Giorgian Arrascaeta                | Meio-Campo
+FLA18 Léo Ortiz                          | Zagueiro
+FLA19 Léo Pereira                        | Zagueiro
+FLA20 Vitão                              | Zagueiro
+

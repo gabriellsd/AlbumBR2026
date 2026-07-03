@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Corinthians
+Sigla: COR | Técnico: Fernando Diniz | Estádio: Neo Química Arena
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  1  Hugo Souza                     BRA      27   1,99  D   Goleiro          Titular
+ 51  Kauê                           BRA      22   1,92  D   Goleiro          Reserva
+  2  Matheuzinho                    BRA      25   1,71  D   Lat. direito     Titular
+ 21  Matheus Bidu                   BRA      27   1,72  E   Lat. direito     Reserva
+ 26  Fabrizio Angileri              ARG      32   1,85  E   Lat. esquerdo    Titular
+ 46  Hugo                           BRA      28   1,79  E   Lat. esquerdo    Rotação
+  3  Gabriel Paulista               BRA      35   1,85  D   Zagueiro         Titular
+ 13  Gustavo Henrique               BRA      33   1,94  D   Zagueiro         Titular
+  5  André Ramalho                  BRA      34   1,82  A   Zagueiro         Reserva
+ 14  Raniele                        BRA      29   1,84  D   Volante          Titular
+  7  Breno Bidon                    BRA      21   1,78  E   Volante          Titular
+  8  Rodrigo Garro                  ARG      28   1,74  E   Meia             Reserva
+ 49  André                          BRA      20   1,83  D   Meia             Titular
+  9  Yuri Alberto                   BRA      25   1,83  D   Atacante         Titular
+ 10  Memphis Depay                  NED      32   1,78  D   Atacante         Titular
+ 37  Kaio César                     BRA      22   1,68  E   Atacante         Titular
+ 18  Pedro Raul                     BRA      29   1,93  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Fernando Diniz
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Corinthians
+Sigla: COR
+Temporada: 2026 | Técnico: Fernando Diniz
+
+COR1  Escudo                             | Escudo
+COR2  Fernando Diniz                     | Técnico
+COR3  Hugo Souza                         | Goleiro
+COR4  Kauê                               | Goleiro
+COR5  Yuri Alberto                       | Atacante
+COR6  Memphis Depay                      | Atacante
+COR7  Kaio César                         | Atacante
+COR8  Pedro Raul                         | Atacante
+COR9  Matheuzinho                        | Lateral
+COR10 Matheus Bidu                       | Lateral
+COR11 Fabrizio Angileri                  | Lateral
+COR12 Hugo                               | Lateral
+COR13 Neo Química Arena                  | Estádio
+COR14 Raniele                            | Meio-Campo
+COR15 Breno Bidon                        | Meio-Campo
+COR16 Rodrigo Garro                      | Meio-Campo
+COR17 André                              | Meio-Campo
+COR18 Gabriel Paulista                   | Zagueiro
+COR19 Gustavo Henrique                   | Zagueiro
+COR20 André Ramalho                      | Zagueiro
+

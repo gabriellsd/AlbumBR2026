@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Bahia
+Sigla: BAH | Técnico: Rogério Ceni | Estádio: Arena Fonte Nova
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  —  Léo Vieira                     —         —      —  —   Goleiro          Titular
+  —  Ronaldo                        —         —      —  —   Goleiro          Reserva
+  —  Luciano Juba                   —         —      —  —   Lat. direito     Titular
+  —  Gilberto                       —         —      —  —   Lat. direito     Reserva
+  —  Iago Borduchi                  —         —      —  —   Lat. esquerdo    Titular
+  —  Roger Gómez                    —         —      —  —   Lat. esquerdo    Rotação
+  —  Ramos Mingo                    —         —      —  —   Zagueiro         Titular
+  —  David Duarte                   —         —      —  —   Zagueiro         Titular
+  —  Kanu                           —         —      —  —   Zagueiro         Reserva
+  —  Jean Lucas                     —         —      —  —   Volante          Titular
+  —  Everton Ribeiro                —         —      —  —   Volante          Titular
+  —  Nicolás Acevedo                —         —      —  —   Meia             Reserva
+  —  Caio Alexandre                 —         —      —  —   Meia             Titular
+  —  Willian José                   —         —      —  —   Atacante         Titular
+  —  Erick Pulga                    —         —      —  —   Atacante         Titular
+  —  Everaldo                       —         —      —  —   Atacante         Titular
+  —  Ademir                         —         —      —  —   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Rogério Ceni
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Bahia
+Sigla: BAH
+Temporada: 2026 | Técnico: Rogério Ceni
+
+BAH1  Escudo                             | Escudo
+BAH2  Rogério Ceni                       | Técnico
+BAH3  Léo Vieira                         | Goleiro
+BAH4  Ronaldo                            | Goleiro
+BAH5  Willian José                       | Atacante
+BAH6  Erick Pulga                        | Atacante
+BAH7  Everaldo                           | Atacante
+BAH8  Ademir                             | Atacante
+BAH9  Luciano Juba                       | Lateral
+BAH10 Gilberto                           | Lateral
+BAH11 Iago Borduchi                      | Lateral
+BAH12 Roger Gómez                        | Lateral
+BAH13 Arena Fonte Nova                   | Estádio
+BAH14 Jean Lucas                         | Meio-Campo
+BAH15 Everton Ribeiro                    | Meio-Campo
+BAH16 Nicolás Acevedo                    | Meio-Campo
+BAH17 Caio Alexandre                     | Meio-Campo
+BAH18 Ramos Mingo                        | Zagueiro
+BAH19 David Duarte                       | Zagueiro
+BAH20 Kanu                               | Zagueiro
+

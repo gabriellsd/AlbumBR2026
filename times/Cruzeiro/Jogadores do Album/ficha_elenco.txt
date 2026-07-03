@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Cruzeiro
+Sigla: CRU | Técnico: Artur Jorge | Estádio: Mineirão
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  —  Otávio                         —         —      —  —   Goleiro          Titular
+  —  Matheus Cunha                  —         —      —  —   Goleiro          Reserva
+  —  Fagner                         —         —      —  —   Lat. direito     Titular
+  —  William                        —         —      —  —   Lat. direito     Reserva
+  —  Kauã Moraes                    —         —      —  —   Lat. esquerdo    Titular
+  —  Marlon                         —         —      —  —   Lat. esquerdo    Rotação
+  —  Fabrício Bruno                 —         —      —  —   Zagueiro         Titular
+  —  Jonathan Jesus                 —         —      —  —   Zagueiro         Titular
+  —  Lucas Villalba                 —         —      —  —   Zagueiro         Reserva
+  —  Gerson                         —         —      —  —   Volante          Titular
+  —  Lucas Romero                   —         —      —  —   Volante          Titular
+  —  Matheus Pereira                —         —      —  —   Meia             Reserva
+  —  Christian                      —         —      —  —   Meia             Titular
+  —  Kaio Jorge                     —         —      —  —   Atacante         Titular
+  —  Keny Arroyo                    —         —      —  —   Atacante         Titular
+  —  Néiser Villarreal              —         —      —  —   Atacante         Titular
+  —  Luis Sinisterra                —         —      —  —   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Artur Jorge
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Cruzeiro
+Sigla: CRU
+Temporada: 2026 | Técnico: Artur Jorge
+
+CRU1  Escudo                             | Escudo
+CRU2  Artur Jorge                        | Técnico
+CRU3  Otávio                             | Goleiro
+CRU4  Matheus Cunha                      | Goleiro
+CRU5  Kaio Jorge                         | Atacante
+CRU6  Keny Arroyo                        | Atacante
+CRU7  Néiser Villarreal                  | Atacante
+CRU8  Luis Sinisterra                    | Atacante
+CRU9  Fagner                             | Lateral
+CRU10 William                            | Lateral
+CRU11 Kauã Moraes                        | Lateral
+CRU12 Marlon                             | Lateral
+CRU13 Mineirão                           | Estádio
+CRU14 Gerson                             | Meio-Campo
+CRU15 Lucas Romero                       | Meio-Campo
+CRU16 Matheus Pereira                    | Meio-Campo
+CRU17 Christian                          | Meio-Campo
+CRU18 Fabrício Bruno                     | Zagueiro
+CRU19 Jonathan Jesus                     | Zagueiro
+CRU20 Lucas Villalba                     | Zagueiro
+

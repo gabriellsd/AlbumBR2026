@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Coritiba
+Sigla: CFC | Técnico: Fernando Seabra | Estádio: Couto Pereira
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 22  Pedro Rangel                   BRA      25   1,92  D   Goleiro          Titular
+ 87  Gabriel Leite                  BRA      38   1,87  D   Goleiro          Reserva
+ 26  Bruno Melo                     BRA      33   1,83  E   Lat. direito     Titular
+  —  João Pedro Chermont            —         —      —  —   Lat. direito     Reserva
+  2  Tinga                          BRA      32   1,79  D   Lat. esquerdo    Titular
+  6  Felipe Jonatan                 BRA      28   1,76  E   Lat. esquerdo    Rotação
+ 55  Jacy                           BRA      28   1,92  D   Zagueiro         Titular
+ 23  Tiago Cóser                    BRA      22   1,91  D   Zagueiro         Titular
+  4  Rodrigo Moledo                 BRA      38   1,88  D   Zagueiro         Reserva
+ 19  Sebastián Gómez                COL      30   1,77  E   Volante          Titular
+ 21  Thiago Santos                  BRA      36   1,81  D   Volante          Titular
+  —  Lucas Lavega                   —         —      —  —   Meia             Reserva
+ 10  Josué                          POR      35   1,74  E   Meia             Titular
+ 77  Breno Lopes                    BRA      30   1,78  D   Atacante         Titular
+ 32  Pedro Rocha                    BRA      31   1,75  D   Atacante         Titular
+ 11  Lucas Ronier                   BRA      21   1,65  E   Atacante         Titular
+ 20  Keno                           BRA      36   1,74  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Fernando Seabra
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Coritiba
+Sigla: CFC
+Temporada: 2026 | Técnico: Fernando Seabra
+
+CFC1  Escudo                             | Escudo
+CFC2  Fernando Seabra                    | Técnico
+CFC3  Pedro Rangel                       | Goleiro
+CFC4  Gabriel Leite                      | Goleiro
+CFC5  Breno Lopes                        | Atacante
+CFC6  Pedro Rocha                        | Atacante
+CFC7  Lucas Ronier                       | Atacante
+CFC8  Keno                               | Atacante
+CFC9  Bruno Melo                         | Lateral
+CFC10 João Pedro Chermont                | Lateral
+CFC11 Tinga                              | Lateral
+CFC12 Felipe Jonatan                     | Lateral
+CFC13 Couto Pereira                      | Estádio
+CFC14 Sebastián Gómez                    | Meio-Campo
+CFC15 Thiago Santos                      | Meio-Campo
+CFC16 Lucas Lavega                       | Meio-Campo
+CFC17 Josué                              | Meio-Campo
+CFC18 Jacy                               | Zagueiro
+CFC19 Tiago Cóser                        | Zagueiro
+CFC20 Rodrigo Moledo                     | Zagueiro
+

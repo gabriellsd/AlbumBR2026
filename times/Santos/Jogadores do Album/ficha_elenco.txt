@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Santos
+Sigla: SAN | Técnico: Cuca | Estádio: Vila Belmiro
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 77  Gabriel Brazão                 BRA      25   1,92  D   Goleiro          Titular
+  1  Diógenes                       BRA      25   1,90  D   Goleiro          Reserva
+ 18  Igor Vinícius                  BRA      29   1,74  D   Lat. direito     Titular
+ 31  Escobar                        ARG      29   1,71  E   Lat. direito     Reserva
+  —  Rafael Gonzaga                 —         —      —  —   Lat. esquerdo    Titular
+ 12  Mayke                          BRA      33   1,78  D   Lat. esquerdo    Rotação
+  4  Lucas Veríssimo                BRA      30   1,88  D   Zagueiro         Titular
+ 14  Luan Peres                     BRA      31   1,90  E   Zagueiro         Titular
+ 98  Adonis Frías                   ARG      28   1,89  D   Zagueiro         Reserva
+ 15  Willian Arão                   BRA      34   1,81  D   Volante          Titular
+ 28  Christian Oliva                URU      30   1,78  D   Volante          Titular
+  —  Gustavo Henrique               —         —      —  —   Meia             Reserva
+ 49  Gabriel Bontempo               BRA      21   1,81  D   Meia             Titular
+ 10  Neymar                         BRA      34   1,75  D   Atacante         Titular
+  —  Gabigol                        —         —      —  —   Atacante         Titular
+ 32  Benjamín Rollheiser            ARG      26   1,72  E   Atacante         Titular
+ 22  Álvaro Barreal                 ARG      25   1,72  E   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Cuca
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Santos
+Sigla: SAN
+Temporada: 2026 | Técnico: Cuca
+
+SAN1  Escudo                             | Escudo
+SAN2  Cuca                               | Técnico
+SAN3  Gabriel Brazão                     | Goleiro
+SAN4  Diógenes                           | Goleiro
+SAN5  Neymar                             | Atacante
+SAN6  Gabigol                            | Atacante
+SAN7  Benjamín Rollheiser                | Atacante
+SAN8  Álvaro Barreal                     | Atacante
+SAN9  Igor Vinícius                      | Lateral
+SAN10 Escobar                            | Lateral
+SAN11 Rafael Gonzaga                     | Lateral
+SAN12 Mayke                              | Lateral
+SAN13 Vila Belmiro                       | Estádio
+SAN14 Willian Arão                       | Meio-Campo
+SAN15 Christian Oliva                    | Meio-Campo
+SAN16 Gustavo Henrique                   | Meio-Campo
+SAN17 Gabriel Bontempo                   | Meio-Campo
+SAN18 Lucas Veríssimo                    | Zagueiro
+SAN19 Luan Peres                         | Zagueiro
+SAN20 Adonis Frías                       | Zagueiro
+

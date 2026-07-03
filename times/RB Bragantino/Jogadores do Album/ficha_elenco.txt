@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — RB Bragantino
+Sigla: RBB | Técnico: Vagner Mancini | Estádio: Cícero de Souza Marques
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  —  Thiago Volpi                   —         —      —  —   Goleiro          Titular
+  1  Cleiton                        BRA      28   1,90  D   Goleiro          Reserva
+ 29  Juninho Capixaba               BRA      28   1,76  E   Lat. direito     Titular
+  —  Paulo Henrique                 —         —      —  —   Lat. direito     Reserva
+  —  Álefe Vinícius                 —         —      —  —   Lat. esquerdo    Titular
+ 52  Ryan Augusto                   BRA      18   1,79  D   Lat. esquerdo    Rotação
+ 16  Gustavo Marques                BRA      24   1,89  D   Zagueiro         Titular
+  3  Eduardo Santos                 BRA      28   1,96  D   Zagueiro         Titular
+  —  Aderlan                        —         —      —  —   Zagueiro         Reserva
+  6  Gabriel                        BRA      33   1,71  D   Volante          Titular
+  —  Sidnei Anna                    —         —      —  —   Volante          Titular
+  —  Lincoln Barbosa                —         —      —  —   Meia             Reserva
+ 35  Matheus Fernandes              BRA      27   1,83  D   Meia             Titular
+  —  Igor Pitta                     —         —      —  —   Atacante         Titular
+  —  Helinho Mosquera               —         —      —  —   Atacante         Titular
+ 11  Fernando Júnior                BRA      27   1,76  D   Atacante         Titular
+  —  Edu Sasha                      —         —      —  —   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Vagner Mancini
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — RB Bragantino
+Sigla: RBB
+Temporada: 2026 | Técnico: Vagner Mancini
+
+RBB1  Escudo                             | Escudo
+RBB2  Vagner Mancini                     | Técnico
+RBB3  Thiago Volpi                       | Goleiro
+RBB4  Cleiton                            | Goleiro
+RBB5  Igor Pitta                         | Atacante
+RBB6  Helinho Mosquera                   | Atacante
+RBB7  Fernando Júnior                    | Atacante
+RBB8  Edu Sasha                          | Atacante
+RBB9  Juninho Capixaba                   | Lateral
+RBB10 Paulo Henrique                     | Lateral
+RBB11 Álefe Vinícius                     | Lateral
+RBB12 Ryan Augusto                       | Lateral
+RBB13 Cícero de Souza Marques            | Estádio
+RBB14 Gabriel                            | Meio-Campo
+RBB15 Sidnei Anna                        | Meio-Campo
+RBB16 Lincoln Barbosa                    | Meio-Campo
+RBB17 Matheus Fernandes                  | Meio-Campo
+RBB18 Gustavo Marques                    | Zagueiro
+RBB19 Eduardo Santos                     | Zagueiro
+RBB20 Aderlan                            | Zagueiro
+

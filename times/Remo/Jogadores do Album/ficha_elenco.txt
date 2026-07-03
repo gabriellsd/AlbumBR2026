@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Remo
+Sigla: REM | Técnico: Léo Condé | Estádio: Mangueirão
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  —  Marcelo Rangel                 —         —      —  —   Goleiro          Titular
+  —  Ygor Vinhas                    —         —      —  —   Goleiro          Reserva
+  —  Marcelinho                     —         —      —  —   Lat. direito     Titular
+  —  Mayk                           —         —      —  —   Lat. direito     Reserva
+  —  Matheus Alexandre              —         —      —  —   Lat. esquerdo    Titular
+  —  Braian Cufré                   —         —      —  —   Lat. esquerdo    Rotação
+  —  Marllon                        —         —      —  —   Zagueiro         Titular
+  —  Tchamba                        —         —      —  —   Zagueiro         Titular
+  —  Kayky Almeida                  —         —      —  —   Zagueiro         Reserva
+  —  Patrick                        —         —      —  —   Volante          Titular
+  —  Vitor Bueno                    —         —      —  —   Volante          Titular
+  —  José Welison                   —         —      —  —   Meia             Reserva
+  —  Leonel Picco                   —         —      —  —   Meia             Titular
+  —  Alef Manga                     —         —      —  —   Atacante         Titular
+  —  Yago Pikachu                   —         —      —  —   Atacante         Titular
+  —  Jajá                           —         —      —  —   Atacante         Titular
+  —  Gabriel Taliari                —         —      —  —   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Léo Condé
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Remo
+Sigla: REM
+Temporada: 2026 | Técnico: Léo Condé
+
+REM1  Escudo                             | Escudo
+REM2  Léo Condé                          | Técnico
+REM3  Marcelo Rangel                     | Goleiro
+REM4  Ygor Vinhas                        | Goleiro
+REM5  Alef Manga                         | Atacante
+REM6  Yago Pikachu                       | Atacante
+REM7  Jajá                               | Atacante
+REM8  Gabriel Taliari                    | Atacante
+REM9  Marcelinho                         | Lateral
+REM10 Mayk                               | Lateral
+REM11 Matheus Alexandre                  | Lateral
+REM12 Braian Cufré                       | Lateral
+REM13 Mangueirão                         | Estádio
+REM14 Patrick                            | Meio-Campo
+REM15 Vitor Bueno                        | Meio-Campo
+REM16 José Welison                       | Meio-Campo
+REM17 Leonel Picco                       | Meio-Campo
+REM18 Marllon                            | Zagueiro
+REM19 Tchamba                            | Zagueiro
+REM20 Kayky Almeida                      | Zagueiro
+

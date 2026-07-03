@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — São Paulo
+Sigla: SAO | Técnico: Dorival Júnior | Estádio: Morumbis
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  —  Rafael                         —         —      —  —   Goleiro          Titular
+  —  Young                          —         —      —  —   Goleiro          Reserva
+  —  Lucas Ramon                    —         —      —  —   Lat. direito     Titular
+  —  Wendell                        —         —      —  —   Lat. direito     Reserva
+  —  Enzo Díaz                      —         —      —  —   Lat. esquerdo    Titular
+  —  Maik                           —         —      —  —   Lat. esquerdo    Rotação
+  —  Alan Franco                    —         —      —  —   Zagueiro         Titular
+  —  Rafael Tolói                   —         —      —  —   Zagueiro         Titular
+  —  Sabino                         —         —      —  —   Zagueiro         Reserva
+  —  Marcos Antônio                 —         —      —  —   Volante          Titular
+  —  Danielzinho                    —         —      —  —   Volante          Titular
+  —  Pablo Maia                     —         —      —  —   Meia             Reserva
+  —  Cauly                          —         —      —  —   Meia             Titular
+  —  Luciano Calleri                —         —      —  —   Atacante         Titular
+  —  Artur                          —         —      —  —   Atacante         Titular
+  —  Ferreirinha                    —         —      —  —   Atacante         Titular
+  —  André Silva                    —         —      —  —   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Dorival Júnior
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — São Paulo
+Sigla: SAO
+Temporada: 2026 | Técnico: Dorival Júnior
+
+SAO1  Escudo                             | Escudo
+SAO2  Dorival Júnior                     | Técnico
+SAO3  Rafael                             | Goleiro
+SAO4  Young                              | Goleiro
+SAO5  Luciano Calleri                    | Atacante
+SAO6  Artur                              | Atacante
+SAO7  Ferreirinha                        | Atacante
+SAO8  André Silva                        | Atacante
+SAO9  Lucas Ramon                        | Lateral
+SAO10 Wendell                            | Lateral
+SAO11 Enzo Díaz                          | Lateral
+SAO12 Maik                               | Lateral
+SAO13 Morumbis                           | Estádio
+SAO14 Marcos Antônio                     | Meio-Campo
+SAO15 Danielzinho                        | Meio-Campo
+SAO16 Pablo Maia                         | Meio-Campo
+SAO17 Cauly                              | Meio-Campo
+SAO18 Alan Franco                        | Zagueiro
+SAO19 Rafael Tolói                       | Zagueiro
+SAO20 Sabino                             | Zagueiro
+

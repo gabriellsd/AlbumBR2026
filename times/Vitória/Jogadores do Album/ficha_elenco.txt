@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Vitória
+Sigla: VIT | Técnico: Jair Ventura | Estádio: Barradão
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  1  Lucas Arcanjo                  BRA      27   1,89  D   Goleiro          Titular
+  —  Thiago Couto                   —         —      —  —   Goleiro          Reserva
+  —  Lucas Cândido                  —         —      —  —   Lat. direito     Titular
+ 13  Ramon                          BRA      25   1,79  E   Lat. direito     Reserva
+ 45  Nathan Mendes                  BRA      23   1,82  D   Lat. esquerdo    Titular
+  2  Claudinho                      BRA      25   1,80  D   Lat. esquerdo    Rotação
+ 95  Caíque                         BRA      30   1,78  D   Zagueiro         Titular
+ 77  Neris                          BRA      34   1,92  D   Zagueiro         Titular
+ 83  Jamerson                       BRA      27   1,77  E   Zagueiro         Reserva
+  —  Edenílson Martínez             —         —      —  —   Volante          Titular
+ 22  Gabriel Baralhas               BRA      33   1,94  D   Volante          Titular
+ 10  Matheuzinho                    BRA      28   1,65  E   Meia             Reserva
+ 88  Zé Vitor                       BRA      26   1,94  D   Meia             Titular
+ 33  Erick                          BRA      28   1,73  E   Atacante         Titular
+  —  Rômulo Kayzer                  —         —      —  —   Atacante         Titular
+ 28  Anderson Pato                  BRA      23   1,78  D   Atacante         Titular
+  7  Marinho                        BRA      36   1,69  E   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Jair Ventura
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Vitória
+Sigla: VIT
+Temporada: 2026 | Técnico: Jair Ventura
+
+VIT1  Escudo                             | Escudo
+VIT2  Jair Ventura                       | Técnico
+VIT3  Lucas Arcanjo                      | Goleiro
+VIT4  Thiago Couto                       | Goleiro
+VIT5  Erick                              | Atacante
+VIT6  Rômulo Kayzer                      | Atacante
+VIT7  Anderson Pato                      | Atacante
+VIT8  Marinho                            | Atacante
+VIT9  Lucas Cândido                      | Lateral
+VIT10 Ramon                              | Lateral
+VIT11 Nathan Mendes                      | Lateral
+VIT12 Claudinho                          | Lateral
+VIT13 Barradão                           | Estádio
+VIT14 Edenílson Martínez                 | Meio-Campo
+VIT15 Gabriel Baralhas                   | Meio-Campo
+VIT16 Matheuzinho                        | Meio-Campo
+VIT17 Zé Vitor                           | Meio-Campo
+VIT18 Caíque                             | Zagueiro
+VIT19 Neris                              | Zagueiro
+VIT20 Jamerson                           | Zagueiro
+

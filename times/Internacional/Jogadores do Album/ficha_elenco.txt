@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Internacional
+Sigla: INT | Técnico: Paulo Pezzolano | Estádio: Beira-Rio
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 12  Anthoni                        BRA      24   1,93  D   Goleiro          Titular
+  1  Rochet                         URU      33   1,89  D   Goleiro          Reserva
+  6  Matheus Bahia                  BRA      26   1,81  E   Lat. direito     Titular
+  —  Ayrton Bernabei                —         —      —  —   Lat. direito     Reserva
+ 15  Bruno Gomes                    BRA      25   1,75  D   Lat. esquerdo    Titular
+ 35  Aguirre                        ARG      25   1,75  D   Lat. esquerdo    Rotação
+ 25  Gabriel Mercado                ARG      39   1,80  D   Zagueiro         Titular
+ 18  Juninho                        BRA      31   1,85  E   Zagueiro         Titular
+  —  Fernando Torres                —         —      —  —   Zagueiro         Reserva
+  5  Rodrigo Villagra               ARG      25   1,78  D   Volante          Titular
+  8  Bruno Henrique                 BRA      36   1,80  D   Volante          Titular
+ 10  Alan Patrick                   BRA      35   1,77  D   Meia             Reserva
+ 16  Ronaldo                        BRA      29   1,79  D   Meia             Titular
+  7  Johan Carbonero                COL      26   1,70  D   Atacante         Titular
+  9  Alerrandro                     BRA      26   1,81  D   Atacante         Titular
+ 19  Borré                          COL      30   1,74  D   Atacante         Titular
+ 28  Vitinho                        BRA      27   1,80  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Paulo Pezzolano
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Internacional
+Sigla: INT
+Temporada: 2026 | Técnico: Paulo Pezzolano
+
+INT1  Escudo                             | Escudo
+INT2  Paulo Pezzolano                    | Técnico
+INT3  Anthoni                            | Goleiro
+INT4  Rochet                             | Goleiro
+INT5  Johan Carbonero                    | Atacante
+INT6  Alerrandro                         | Atacante
+INT7  Borré                              | Atacante
+INT8  Vitinho                            | Atacante
+INT9  Matheus Bahia                      | Lateral
+INT10 Ayrton Bernabei                    | Lateral
+INT11 Bruno Gomes                        | Lateral
+INT12 Aguirre                            | Lateral
+INT13 Beira-Rio                          | Estádio
+INT14 Rodrigo Villagra                   | Meio-Campo
+INT15 Bruno Henrique                     | Meio-Campo
+INT16 Alan Patrick                       | Meio-Campo
+INT17 Ronaldo                            | Meio-Campo
+INT18 Gabriel Mercado                    | Zagueiro
+INT19 Juninho                            | Zagueiro
+INT20 Fernando Torres                    | Zagueiro
+

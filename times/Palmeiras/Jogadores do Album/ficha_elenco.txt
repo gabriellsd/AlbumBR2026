@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Palmeiras
+Sigla: PAL | Técnico: Abel Ferreira | Estádio: Allianz Parque
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+  1  Carlos Miguel                  BRA      27   2,04  E   Goleiro          Titular
+ 14  Marcelo Lomba                  BRA      39   1,89  D   Goleiro          Reserva
+  4  Giay                           ARG      22   1,80  D   Lat. direito     Titular
+ 56  Arthur                         BRA      20   1,77  E   Lat. direito     Reserva
+ 12  Khellven                       BRA      25   1,76  D   Lat. esquerdo    Titular
+  6  Jefté                          BRA      22   1,83  E   Lat. esquerdo    Rotação
+ 15  Gustavo Gómez                  PAR      33   1,85  D   Zagueiro         Titular
+ 26  Murilo                         BRA      29   1,88  D   Zagueiro         Titular
+  3  Bruno Fuchs                    BRA      27   1,90  D   Zagueiro         Reserva
+ 17  Marlon Freitas                 BRA      31   1,85  D   Volante          Titular
+  8  Andreas Pereira                BRA      30   1,78  D   Volante          Titular
+ 40  Allan                          BRA      22   1,74  E   Meia             Reserva
+ 11  Jhon Arias                     COL      28   1,68  D   Meia             Titular
+ 42  Flaco López                    ARG      25   1,90  E   Atacante         Titular
+ 19  Ramón Sosa                     PAR      26   1,78  D   Atacante         Titular
+  9  Vitor Roque                    BRA      21   1,74  D   Atacante         Titular
+ 10  Paulinho                       BRA      25   1,77  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Abel Ferreira
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Palmeiras
+Sigla: PAL
+Temporada: 2026 | Técnico: Abel Ferreira
+
+SEP1  Escudo                             | Escudo
+SEP2  Abel Ferreira                      | Técnico
+SEP3  Carlos Miguel                      | Goleiro
+SEP4  Marcelo Lomba                      | Goleiro
+SEP5  Flaco López                        | Atacante
+SEP6  Ramón Sosa                         | Atacante
+SEP7  Vitor Roque                        | Atacante
+SEP8  Paulinho                           | Atacante
+SEP9  Giay                               | Lateral
+SEP10 Arthur                             | Lateral
+SEP11 Khellven                           | Lateral
+SEP12 Jefté                              | Lateral
+SEP13 Allianz Parque                     | Estádio
+SEP14 Marlon Freitas                     | Meio-Campo
+SEP15 Andreas Pereira                    | Meio-Campo
+SEP16 Allan                              | Meio-Campo
+SEP17 Jhon Arias                         | Meio-Campo
+SEP18 Gustavo Gómez                      | Zagueiro
+SEP19 Murilo                             | Zagueiro
+SEP20 Bruno Fuchs                        | Zagueiro
+

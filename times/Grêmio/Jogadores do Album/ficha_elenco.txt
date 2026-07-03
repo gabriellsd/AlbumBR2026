@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Grêmio
+Sigla: GRE | Técnico: Luís Castro | Estádio: Arena do Grêmio
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 12  Gabriel Grando                 BRA      26   1,92  D   Goleiro          Titular
+ 24  Thiago Beltrame                BRA      22   2,01  D   Goleiro          Reserva
+ 14  Marcos Rocha                   BRA      37   1,76  D   Lat. direito     Titular
+ 54  Pedro Gabriel                  BRA      19      —  E   Lat. direito     Reserva
+ 18  João Pedro                     BRA      29   1,79  D   Lat. esquerdo    Titular
+ 38  Caio Paulista                  BRA      28   1,84  E   Lat. esquerdo    Rotação
+  4  Kannemann                      ARG      35   1,84  E   Zagueiro         Titular
+ 44  Viery                          BRA      21   1,87  E   Zagueiro         Titular
+  3  Wagner Leonardo                BRA      26   1,86  E   Zagueiro         Reserva
+  —  Cristian Villasanti            —         —      —  —   Volante          Titular
+ 19  Noriega                        PER      24   1,85  D   Volante          Titular
+  —  Léo Pérez                      —         —      —  —   Meia             Reserva
+ 17  Dodi                           BRA      30   1,69  D   Meia             Titular
+ 95  Carlos Vinícius                BRA      31   1,90  E   Atacante         Titular
+ 22  Braithwaite                    DEN      35   1,77  D   Atacante         Titular
+  9  Amuzu                          GHA      26   1,69  D   Atacante         Titular
+ 21  Tetê                           BRA      26   1,75  E   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Luís Castro
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Grêmio
+Sigla: GRE
+Temporada: 2026 | Técnico: Luís Castro
+
+GRE1  Escudo                             | Escudo
+GRE2  Luís Castro                        | Técnico
+GRE3  Gabriel Grando                     | Goleiro
+GRE4  Thiago Beltrame                    | Goleiro
+GRE5  Carlos Vinícius                    | Atacante
+GRE6  Braithwaite                        | Atacante
+GRE7  Amuzu                              | Atacante
+GRE8  Tetê                               | Atacante
+GRE9  Marcos Rocha                       | Lateral
+GRE10 Pedro Gabriel                      | Lateral
+GRE11 João Pedro                         | Lateral
+GRE12 Caio Paulista                      | Lateral
+GRE13 Arena do Grêmio                    | Estádio
+GRE14 Cristian Villasanti                | Meio-Campo
+GRE15 Noriega                            | Meio-Campo
+GRE16 Léo Pérez                          | Meio-Campo
+GRE17 Dodi                               | Meio-Campo
+GRE18 Kannemann                          | Zagueiro
+GRE19 Viery                              | Zagueiro
+GRE20 Wagner Leonardo                    | Zagueiro
+

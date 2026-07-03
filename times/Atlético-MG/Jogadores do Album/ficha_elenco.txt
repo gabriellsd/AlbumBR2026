@@ -1,0 +1,56 @@
+FICHA DO ELENCO — ÁLBUM — Atlético-MG
+Sigla: CAM | Técnico: Eduardo Domínguez | Estádio: Arena MRV
+Temporada: 2026 | Atualização: junho/2026
+Escopo: apenas os 18 jogadores + técnico das figurinhas oficiais (#02–#20).
+
+═══ FIGURINHAS DO ÁLBUM ═══
+
+  #  Jogador                       Nac.  Idade Altura  Pé  Posição          Situação                
+----------------------------------------------------------------------------------------------------
+ 22  Everson                        BRA      35   1,93  D   Goleiro          Titular
+  —  Matheus Cunha                  —         —      —  —   Goleiro          Reserva
+ 16  Renan Lodi                     BRA      28   1,73  E   Lat. direito     Titular
+  2  Natanael                       BRA      24   1,72  D   Lat. direito     Reserva
+ 36  Kauã Pascini                   BRA      18   1,72  E   Lat. esquerdo    Titular
+  —  Cândido Soares                 —         —      —  —   Lat. esquerdo    Rotação
+ 13  Lyanco                         BRA      29   1,87  D   Zagueiro         Titular
+  4  Ruan Tressoldi                 BRA      27   1,87  D   Zagueiro         Titular
+  6  Junior Alonso                  PAR      33   1,85  E   Zagueiro         Reserva
+  8  Maycon                         BRA      28   1,75  E   Volante          Titular
+ 11  Bernard                        BRA      33   1,67  D   Volante          Titular
+ 21  Alan Franco                    ECU      27   1,75  D   Meia             Reserva
+ 30  Victor Hugo                    BRA      22   1,84  E   Meia             Titular
+  9  Cassierra                      COL      29   1,86  D   Atacante         Titular
+ 28  Cuello                         ARG      26   1,76  D   Atacante         Titular
+ 27  Alan Minda                     ECU      23   1,74  D   Atacante         Titular
+ 92  Dudu                           BRA      34   1,66  D   Atacante         Reserva
+
+Comissão técnica (figurinha #02): Eduardo Domínguez
+
+-----------------------------------------------------------------------------------------------------
+
+CATÁLOGO OFICIAL — Atlético-MG
+Sigla: CAM
+Temporada: 2026 | Técnico: Eduardo Domínguez
+
+CAM1  Escudo                             | Escudo
+CAM2  Eduardo Domínguez                  | Técnico
+CAM3  Everson                            | Goleiro
+CAM4  Matheus Cunha                      | Goleiro
+CAM5  Cassierra                          | Atacante
+CAM6  Cuello                             | Atacante
+CAM7  Alan Minda                         | Atacante
+CAM8  Dudu                               | Atacante
+CAM9  Renan Lodi                         | Lateral
+CAM10 Natanael                           | Lateral
+CAM11 Kauã Pascini                       | Lateral
+CAM12 Cândido Soares                     | Lateral
+CAM13 Arena MRV                          | Estádio
+CAM14 Maycon                             | Meio-Campo
+CAM15 Bernard                            | Meio-Campo
+CAM16 Alan Franco                        | Meio-Campo
+CAM17 Victor Hugo                        | Meio-Campo
+CAM18 Lyanco                             | Zagueiro
+CAM19 Ruan Tressoldi                     | Zagueiro
+CAM20 Junior Alonso                      | Zagueiro
+
